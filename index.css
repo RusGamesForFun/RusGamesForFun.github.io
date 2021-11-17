@@ -5,3 +5,17 @@ h1 {
 s {
   font-family: sans-serif;
 }
+
+header {
+  width: 100%;
+  height: 150%;
+  background-color: brown;
+  text-align: center;
+}
+img {
+  border: 2px blue dashed;
+}
+
+h2 {
+  text-align: center;
+}
